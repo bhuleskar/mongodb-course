@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+    <option name="formatSeletedTextInAllFileTypes" value="false" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1364339291306" />
+    <option name="importOrderConfigFilePath" value="$USER_HOME$/workday/dev-build/conf/eclipse/workday.importorder" />
+    <option name="importOrderFromFile" value="true" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/workday/dev-build/conf/eclipse/eclipse workday java format.xml" />
+    <option name="selectedJavaProfile" value="Workday Java Format - Kinder" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+</project>
