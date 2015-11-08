@@ -1,10 +1,13 @@
+<HTML>
+<BODY>
+<P>
 # mongodb-course
 
 Please use this as a reference guide only.
 I am writing this up as a part of my homework assignments. And thought I would share it to others as a reference manual. 
 
 This repository is used to find and navigate homeworks for the
-MongoDB coursework - M101J : MongoDB for Java Developers.
+<B>MongoDB coursework - M101J : MongoDB for Java Developers.</B>
 
 Most homeworks have pom.xml for you to build.
 
@@ -17,3 +20,6 @@ Regards,
 Ronald Bhuleskar
 https://github.com/bhuleskar
 www.linkedin.com/in/bhuleskar
+</P>
+</BODY>
+</HTML>
